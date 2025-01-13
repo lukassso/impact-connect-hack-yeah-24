@@ -4,6 +4,13 @@ Empowering collaboration between NGOs, corporations, and SMEs to drive impactful
 ## Description
 The idea is to create a centralized online platform called "Social Impact Bridge" that connects NGOs, corporations, and small-to-medium-sized enterprises (SMEs) to collaborate on social projects. The platform uses an intelligent search engine powered by GPT to suggest relevant partners and opportunities based on the user's role (NGO, corporation, SME) and context. Each stakeholder fills out a detailed registration form to provide information about their goals, resources, and needs, which the platform uses to facilitate matchmaking, resource sharing, and collaborative project management. The goal is to streamline the process of finding partners and resources, making it easier for organizations to work together on impactful social initiatives.
 
+## Quick mockup demo prezentation:
+
+
+![Demo Presentation](public/assets/demo-presentation.gif)
+
+<p align="center" style="padding-top: 50px;">Made with ❤️ for programming</p>
+
 # NGO Registration Form (v0.01)
 
 ## Organization Information
@@ -108,12 +115,7 @@ Predicted use of technologies (v0.01 )
 - Postgres
 - Redis
 
-## Quick mockup demo prezentation:
 
-
-![Demo Presentation](public/assets/demo-presentation.gif)
-
-<p align="center" style="padding-top: 50px;">Made with ❤️ for programming</p>
 
 
 
